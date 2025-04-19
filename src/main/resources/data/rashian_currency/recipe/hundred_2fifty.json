@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+
+  "ingredients": [
+    {
+      "item": "rashian_currency:hundred_banknote"
+    }
+  ],
+  "result": {
+    "id": "rashian_currency:fifty_banknote",
+    "count": 2
+  }
+}

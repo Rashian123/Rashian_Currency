@@ -1,0 +1,16 @@
+{
+  "item.rashian_currency.fifty_banknote": "50 Dollar Bill",
+  "item.rashian_currency.fifty_cents": "50 Cents",
+  "item.rashian_currency.five_banknote": "5 Dollar Bill",
+  "item.rashian_currency.five_cents": "5 Cents",
+  "item.rashian_currency.hundred_banknote": "100 Dollar Bill",
+  "item.rashian_currency.one_cent": "1 Cent",
+  "item.rashian_currency.one_coin": "1 Dollar Coin",
+  "item.rashian_currency.ten_banknote": "10 Dollar Bill",
+  "item.rashian_currency.ten_cents": "10 Cents",
+  "item.rashian_currency.twenty_banknote": "20 Dollar Bill",
+  "item.rashian_currency.twentyfive_cents": "25 Cents",
+  "item.rashian_currency.two_banknote": "2 Dollar Bill",
+  "item.rashian_currency.twohundred_banknote": "200 Dollar Bill",
+  "creativetab.rashian_currency.rashian_currency_tab": "Money"
+}

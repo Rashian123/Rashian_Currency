@@ -1,0 +1,16 @@
+{
+  "item.rashian_currency.fifty_banknote": "50 Pila",
+  "item.rashian_currency.fifty_cents": "50 Centavos",
+  "item.rashian_currency.five_banknote": "5 Pila",
+  "item.rashian_currency.five_cents": "5 Centavos",
+  "item.rashian_currency.hundred_banknote": "100 Pila",
+  "item.rashian_currency.one_cent": "1 Centavo",
+  "item.rashian_currency.one_coin": "1 Pila",
+  "item.rashian_currency.ten_banknote": "10 Pila",
+  "item.rashian_currency.ten_cents": "10 Centavos",
+  "item.rashian_currency.twenty_banknote": "20 Pila",
+  "item.rashian_currency.twentyfive_cents": "25 Centavos",
+  "item.rashian_currency.two_banknote": "2 Pila",
+  "item.rashian_currency.twohundred_banknote": "200 Pila",
+  "creativetab.rashian_currency.rashian_currency_tab": "Dinheiro"
+}

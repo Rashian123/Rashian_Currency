@@ -1,0 +1,14 @@
+{
+  "type": "crafting_shapeless",
+  "category": "misc",
+
+  "ingredients": [
+    {
+      "item": "rashian_currency:twentyfive_cents"
+    }
+  ],
+  "result": {
+    "id": "rashian_currency:five_cents",
+    "count": 5
+  }
+}
