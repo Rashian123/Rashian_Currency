@@ -4,7 +4,7 @@
         "BB#"
     ],
     "key": {
-        "#": "rashian_currency:ten_banknote"
+        "#": "rashian_currency:ten_banknote",
 		"B": "rashian_currency:twenty_banknote"
     },
     "result": {

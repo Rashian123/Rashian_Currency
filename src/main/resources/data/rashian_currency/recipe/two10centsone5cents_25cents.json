@@ -4,7 +4,7 @@
         "##B"
     ],
     "key": {
-        "B": "rashian_currency:five_cents"
+        "B": "rashian_currency:five_cents",
 		"#": "rashian_currency:ten_cents"
     },
     "result": {
