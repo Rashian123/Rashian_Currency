@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##B"
+    ],
+    "key": {
+        "B": "rashian_currency:five_cents"
+		"#": "rashian_currency:ten_cents"
+    },
+    "result": {
+        "id": "rashian_currency:twentyfive_cents",
+        "count": 1
+    }
+}

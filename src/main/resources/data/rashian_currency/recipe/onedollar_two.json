@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##"
+    ],
+    "key": {
+        "#": "rashian_currency:one_coin"
+    },
+    "result": {
+        "id": "rashian_currency:two_banknote",
+        "count": 1
+    }
+}
